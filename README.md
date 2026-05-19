@@ -113,7 +113,7 @@ python task2_yolo_pipeline.py track \
 
 模型权重文件 `best.pt` 下载链接如下：
 
-- 【请在这里填写你的百度网盘或 Google Drive 链接】
+- Google Drive 链接：https://drive.google.com/file/d/1VLSRhuArsgIhKLf2XgmNcnDvY2gVeMP3/view?usp=sharing
 
 ## 说明
 
